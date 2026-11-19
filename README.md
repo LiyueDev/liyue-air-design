@@ -29,7 +29,7 @@ A visual style skill for AI agents. It describes how things should *look*, not h
 克隆仓库：
 
 ```bash
-git clone https://github.com/QinHaoR/liyue-air-design.git
+git clone https://github.com/LiyueDev/liyue-air-design.git
 ```
 
 把 `liyue-air-design/` 目录复制到你的 Agent skills 目录：
@@ -43,14 +43,14 @@ git clone https://github.com/QinHaoR/liyue-air-design.git
 Windows PowerShell 示例：
 
 ```powershell
-git clone https://github.com/QinHaoR/liyue-air-design.git
+git clone https://github.com/LiyueDev/liyue-air-design.git
 Copy-Item -Recurse .\liyue-air-design "$HOME\.workbuddy\skills\"
 ```
 
 macOS / Linux 示例：
 
 ```bash
-git clone https://github.com/QinHaoR/liyue-air-design.git
+git clone https://github.com/LiyueDev/liyue-air-design.git
 cp -R ./liyue-air-design ~/.claude/skills/
 ```
 
